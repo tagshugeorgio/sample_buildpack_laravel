@@ -44,4 +44,4 @@ You can access localhost
 create `nginx_app.conf` then include in Procfile with -C command, then add custom php config by editing `.user.ini`.
 
 #### Custom ENV_SECRETS Formats
-If you use other than example format, please change web.sh
+If you use other than example format, please change entry.sh
